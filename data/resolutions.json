@@ -1,0 +1,69 @@
+{
+  "resolutions": [
+    {
+      "number": "S/RES/2728",
+      "committeeId": "unsc",
+      "committee": "UNSC",
+      "title": "Demand for an immediate ceasefire",
+      "agenda": "The situation in the Middle East",
+      "authors": [
+        "Algeria",
+        "Ecuador",
+        "Guyana",
+        "Japan",
+        "Malta",
+        "Mozambique",
+        "Republic of Korea",
+        "Sierra Leone",
+        "Slovenia",
+        "Switzerland"
+      ],
+      "coAuthors": [],
+      "signatories": [],
+      "votes": {
+        "for": 14,
+        "against": 0,
+        "abstentions": 1
+      },
+      "vetoedBy": [],
+      "vetoExplanation": "",
+      "explanation": "Test resolution entry for the MUN Database resolution system."
+    },
+    {
+      "number": "S/RES/2250",
+      "committeeId": "unsc",
+      "committee": "UNSC",
+      "title": "Youth, Peace and Security",
+      "agenda": "Maintenance of international peace and security",
+      "authors": [],
+      "coAuthors": [],
+      "signatories": [],
+      "votes": {
+        "for": 15,
+        "against": 0,
+        "abstentions": 0
+      },
+      "vetoedBy": [],
+      "vetoExplanation": "",
+      "explanation": "Test resolution entry concerning the role of youth in peace and security."
+    },
+    {
+      "number": "A/HRC/RES/52/1",
+      "committeeId": "unhrc",
+      "committee": "UNHRC",
+      "title": "Human rights situation",
+      "agenda": "Human rights",
+      "authors": [],
+      "coAuthors": [],
+      "signatories": [],
+      "votes": {
+        "for": 0,
+        "against": 0,
+        "abstentions": 0
+      },
+      "vetoedBy": [],
+      "vetoExplanation": "",
+      "explanation": "Test UNHRC resolution entry."
+    }
+  ]
+}
