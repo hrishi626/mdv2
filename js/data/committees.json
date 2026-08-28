@@ -1,0 +1,54 @@
+{
+  "committees": [
+    {
+      "id": "unsc",
+      "name": "UNSC",
+      "fullName": "United Nations Security Council"
+    },
+    {
+      "id": "unhrc",
+      "name": "UNHRC",
+      "fullName": "United Nations Human Rights Council"
+    },
+    {
+      "id": "disec",
+      "name": "DISEC",
+      "fullName": "Disarmament and International Security Committee"
+    },
+    {
+      "id": "specpol",
+      "name": "SPECPOL",
+      "fullName": "Special Political and Decolonization Committee"
+    },
+    {
+      "id": "ecosoc",
+      "name": "ECOSOC",
+      "fullName": "Economic and Social Council"
+    },
+    {
+      "id": "who",
+      "name": "WHO",
+      "fullName": "World Health Organization"
+    },
+    {
+      "id": "unep",
+      "name": "UNEP",
+      "fullName": "United Nations Environment Programme"
+    },
+    {
+      "id": "unesco",
+      "name": "UNESCO",
+      "fullName": "United Nations Educational, Scientific and Cultural Organization"
+    },
+    {
+      "id": "unwomen",
+      "name": "UN Women",
+      "fullName": "United Nations Entity for Gender Equality and the Empowerment of Women"
+    },
+    {
+      "id": "icj",
+      "name": "ICJ",
+      "fullName": "International Court of Justice"
+    }
+  ]
+}
